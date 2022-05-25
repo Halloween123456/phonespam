@@ -1,0 +1,7 @@
+--- Da Hood Phone Spammer v1
+--- Made by Halloween#0001
+--- .gg/halloweens | .gg/chri
+getgenv().settings = {
+        ['user'] = 'halloweeeeennnnnnnnn', --- User of the player you would like to spam call
+    } --- End of settings
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Halloween123456/spamcaller/main/script'))()
