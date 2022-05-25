@@ -1,6 +1,6 @@
 --- Da Hood Phone Spammer v1
 --- Made by Halloween#0001
---- .gg/halloweens | .gg/chri
+--- .gg/halloweens
 getgenv().settings = {
         ['user'] = 'halloweeeeennnnnnnnn', --- User of the player you would like to spam call
     } --- End of settings
